@@ -1,0 +1,175 @@
+__label__chào-hỏi chào bạn
+__label__chào-hỏi alô
+__label__chào-hỏi xin chào
+__label__chào-hỏi chào bạn nhé
+__label__chào-hỏi bạn ơi bạn
+__label__chào-hỏi hello
+__label__chào-hỏi chào cưng 
+__label__chào-hỏi hellooooo
+__label__chào-hỏi êu 
+__label__chào-hỏi hú hú
+__label__chào-hỏi helllo
+__label__chào-hỏi yo
+__label__chào-hỏi knock knock
+__label__chào-hỏi alo có ai có nhà không ạ
+__label__chào-hỏi hiiii
+__label__chào-hỏi hellooooooo
+__label__chào-hỏi hii
+__label__chào-hỏi 22222
+__label__chào-hỏi nè nè
+__label__chào-hỏi hế lu
+__label__chào-hỏi ê thằng ngu kia
+__label__chào-hỏi hi bạn gái xinh đẹp
+__label__chào-hỏi mày ơi tao nói cái này này
+__label__hỏi-thăm dạo này bạn khỏe chứ
+__label__hỏi-thăm thế nào rồi
+__label__hỏi-thăm Bạn có bận gì không
+__label__hỏi-thăm Ổn chứ hả
+__label__hỏi-thăm vẫn đâu vào đấy chứ hả
+__label__hỏi-thăm Mọi việc thế nào
+__label__hỏi-thăm Bình thường chứ
+__label__hỏi-thăm dạo này mày thế nào rồi
+__label__hỏi-thăm mày vẫn khỏe chứ hả
+__label__hỏi-thăm khỏe không
+__label__hỏi-thăm ăn chưa
+__label__hỏi-thăm có chuyện gì không bạn
+__label__hỏi-tên-tuổi-chatbot Bạn tên gì vậy
+__label__hỏi-tên-tuổi-chatbot mày tên gì
+__label__hỏi-tên-tuổi-chatbot tên gì đó
+__label__hỏi-tên-tuổi-chatbot Có thể nói tên bạn không
+__label__hỏi-tên-tuổi-chatbot có thể gọi bạn là gì
+__label__hỏi-tên-tuổi-chatbot xưng hô như thế nào đây nhỉ
+__label__hỏi-tên-tuổi-chatbot mình nên xưng hô với bạn như thế nào nhỉ
+__label__hỏi-tên-tuổi-chatbot chatbot tên gì vậy
+__label__hỏi-tên-tuổi-chatbot chatbot tên gì đó
+__label__hỏi-tên-tuổi-chatbot cho mình hỏi tên bạn là gì được không
+__label__Giới-tính Có bị bóng không
+__label__Giới-tính Giới tính là gì
+__label__Giới-tính Giới tính gì
+__label__Giới-tính Nam hay nữ vậy
+__label__Giới-tính là nữ à
+__label__Giới-tính Nam à
+__label__Giới-tính Bạn có phải con gái không
+__label__Giới-tính Có phải con trai không vậy
+__label__Giới-tính Bạn là đàn ông hay phụ nữ
+__label__Giới-tính Bạn là đàn bà à
+__label__Giới-tính Cho mình hỏi bạn có giới tính không
+__label__Giới-tính Bạn định nghĩa như thế nào là giới tính vậy
+__label__Giới-tính Chatbot có thể có giới tính không bạn
+__label__Giới-tính mày có bê đê không
+__label__hỏi-thông-tin-về-chatbot ai là người tạo ra bạn vậy
+__label__hỏi-thông-tin-về-chatbot bạn sinh ra ở đâu
+__label__hỏi-thông-tin-về-chatbot bạn được tạo ra như thế nào vậy
+__label__hỏi-thông-tin-về-chatbot bạn được viết bằng ngôn ngữ gì vậy
+__label__hỏi-thông-tin-về-chatbot cuộc nói chuyện giữa bạn và tôi có bị lộ không
+__label__hỏi-thông-tin-về-chatbot giờ bạn phục vụ cho ai
+__label__hỏi-thông-tin-về-chatbot nói qua một chút về thông tin của bạn đi mà
+__label__hỏi-thông-tin-về-chatbot ai đang sở hữu bạn vậy
+__label__hỏi-thông-tin-về-chatbot Chủ của bạn là ai
+__label__hỏi-thông-tin-về-chatbot Nói chút về ông chủ của bạn đi
+__label__hỏi-thông-tin-về-chatbot Nói về người tạo ra bạn đi
+__label__hỏi-thông-tin-về-chatbot Người nào làm ra bạn vậy
+__label__hỏi-thông-tin-về-chatbot bạn sinh ngày nào vậy
+__label__hỏi-thông-tin-về-chatbot bạn có người yêu chưa
+__label__hỏi-khả-năng-của-chatbot Bạn có thể giúp tôi được những việc gì vậy
+__label__hỏi-khả-năng-của-chatbot thử nói xem bạn có khả năng gì nào
+__label__hỏi-khả-năng-của-chatbot Bạn làm được gì cho tôi thì nói xem
+__label__hỏi-khả-năng-của-chatbot năng khiếu của bạn là gì
+__label__hỏi-khả-năng-của-chatbot tôi cần bạn làm gì
+__label__hỏi-khả-năng-của-chatbot giúp được gì cho mình vậy bạn
+__label__hỏi-khả-năng-của-chatbot Bạn có khả năng gì vậy
+__label__hỏi-khả-năng-của-chatbot mày thử làm việc này tao xem
+__label__hỏi-khả-năng-của-chatbot tưởng chatbot mà ngon, biết làm việc gì
+__label__thông-tin-liên-hệ Gọi bạn kiểu gì đây
+__label__thông-tin-liên-hệ làm sao liên lạc với bạn được
+__label__thông-tin-liên-hệ Tôi muốn được giúp đỡ thì làm thế nào
+__label__thông-tin-liên-hệ có ai để tôi gọi khi bạn bị lỗi không
+__label__thông-tin-liên-hệ làm sao để bạn giúp tôi được
+__label__thông-tin-liên-hệ có những cách nào để tôi có thể liên hệ được với bạn nhỉ
+__label__thông-tin-liên-hệ khi mình hỏi mà bạn không trả lời thì mình có thể liên lạc được với ai nhỉ
+__label__chê bạn thật vô dụng
+__label__chê đúng là đồ vô dụng
+__label__chê không giúp được gì cho tôi hết
+__label__chê ngu dốt
+__label__chê Thế mà bảo là thông minh lắm
+__label__chê không hề thông minh
+__label__chê bạn thật là xấu xí
+__label__chê Nói chuyện với bạn thật nhàm chán quá
+__label__chê xấu xí vãi
+__label__chê bạn xấu quá
+__label__chê mày ngu vãi
+__label__chê mày ngu
+__label__chê mày xấu xí quá
+__label__chê chao ôi mặt mày xấu vãi ra
+__label__khen cảm ơn sự giúp đỡ của bạn nhé
+__label__khen bạn thật xinh đẹp
+__label__khen nói chuyện với bạn vui vẻ quá
+__label__khen bạn thông minh quá
+__label__khen đa tạ bạn đã giúp tôi
+__label__khen bạn thật đẹp trai
+__label__khen nói chuyện với bạn thật ngọt ngào
+__label__khen bạn ấm áp quá
+__label__khen Bạn thật thú vị đấy
+__label__khen Công nhận bạn vui phêt
+__label__khen nói hay lắm
+__label__khen mày cũng thông minh lắm
+__label__khen nhìn mày cũng được
+__label__khen bạn thật tuyệt vời
+__label__khen bạn béo quá đi
+__label__nói-về-thời-tiết-hôm-nay Hôm này nhìn trời đẹp nhỉ
+__label__nói-về-thời-tiết-hôm-nay mưa to quá đi
+__label__nói-về-thời-tiết-hôm-nay nắng quá
+__label__nói-về-thời-tiết-hôm-nay trời lạnh thật đấy
+__label__nói-về-thời-tiết-hôm-nay nhiều mây thế chắc là muốn mưa rồi
+__label__nói-về-thời-tiết-hôm-nay bạn thấy thời tiết hôm nay thế nào
+__label__nói-về-thời-tiết-hôm-nay Không biết có nắng không nhỉ
+__label__nói-về-thời-tiết-hôm-nay không biết là lát nữa có mưa không nhỉ
+__label__nói-về-thời-tiết-hôm-nay tôi quên đem ô rồi
+__label__nói-về-thời-tiết-hôm-nay tôi quên đêm áo mưa rồi
+__label__nói-về-thời-tiết-hôm-nay tôi quên đem dù rồi
+__label__nói-về-thời-tiết-hôm-nay có cần mang ô ra đường không nhỉ
+__label__nói-về-thời-tiết-hôm-nay có nắng không
+__label__nói-về-thời-tiết-hôm-nay cho hỏi thời tiết
+__label__nói-về-thời-tiết-hôm-nay trời đẹp thật
+__label__nói-về-thời-gian,-lịch hôm nay là ngày mấy nhỉ
+__label__nói-về-thời-gian,-lịch Bây giờ là mấy giờ rồi vậy
+__label__nói-về-thời-gian,-lịch bạn nói tôi biết hôm nay  là thứ mấy được không
+__label__nói-về-thời-gian,-lịch đã đến cuối tuần chưa nhỉ
+__label__nói-về-thời-gian,-lịch có phải hôm nay là thứ hai không
+__label__nói-về-thời-gian,-lịch có phải hôm nay là chủ nhật không vậy
+__label__nói-về-thời-gian,-lịch thứ mấy rồi 
+__label__nói-về-thời-gian,-lịch thứ 2 là ngày đầu tuần thế mai là thứ mấy
+__label__hỏi-về-người-dùng Bạn biết gì về tôi nào
+__label__hỏi-về-người-dùng tên tôi là gì
+__label__hỏi-về-người-dùng tôi sinh năm bao nhiêu
+__label__hỏi-về-người-dùng sinh nhật tôi là ngày nào
+__label__hỏi-về-người-dùng họ của tôi là gì
+__label__hỏi-về-người-dùng năm sinh của tôi
+__label__hỏi-về-người-dùng ngày sinh của tôi
+__label__hỏi-về-người-dùng bạn biết gì về tôi
+__label__hỏi-về-người-dùng bạn gì ơi bạn biết tên mình không nè
+__label__không-hiểu adjjkadjfsdf
+__label__không-hiểu ncsudhfwef
+__label__không-hiểu àgsfgsdgh
+__label__không-hiểu ẻttryrhtry
+__label__không-hiểu sdjfjhsdf
+__label__không-hiểu ere rtfsdc sfaerwe sfdfdfwae
+__label__không-hiểu yqwgbd sdcvdjvbd sd sdjsd đsfcdè
+__label__không-hiểu ygdadcl sdnfjnvzzdsz
+__label__không-hiểu afrfes sdfassrf
+__label__không-hiểu 13617377 
+__label__không-hiểu 848sdf51xzdzfz
+__label__không-hiểu fdfg54 551fsd
+__label__không-hiểu ád121
+__label__không-hiểu ygawfaawbf
+__label__không-hiểu tèn tèn
+__label__hỏi-về-tin-tức-hôm-nay hmmm hôm nay có nhữn thông tin gì nổi bật vậy không bạn
+__label__hỏi-về-tin-tức-hôm-nay hôm nay trên thế giới có chuyện gì hay ho đang diễn ra nhỉ
+__label__hỏi-về-tin-tức-hôm-nay gần đây có vấn đề gì về kinh tế nổi cổm không vậy
+__label__hỏi-về-tin-tức-hôm-nay bạn hãy kể cho tôi những gì hay ho diễn ra trong thành phố tôi sống được không
+__label__hỏi-về-tin-tức-hôm-nay xem bản tin hôm nay phát
+__label__hỏi-về-tin-tức-hôm-nay hôm nay có gì không bạn
+__label__hỏi-về-tin-tức-hôm-nay nói xem hôm nay có thông tin gì đặc biệt
+__label__hỏi-về-tin-tức-hôm-nay tin tức trong ngày nào
+__label__hỏi-về-tin-tức-hôm-nay thời sự 
+__label__hỏi-về-tin-tức-hôm-nay tin nóng hổi vừa thổi vừa ăn
