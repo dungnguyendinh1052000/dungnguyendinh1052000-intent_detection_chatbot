@@ -3,9 +3,7 @@ tải về đặt tại địa chỉ "intent_detection_chatbot/intent_detection/
 ------------------------------------------------------------------------------------
 trong file intent.py có 2 hàm đó là:
 + load_model(): trả về giá trị là model đã load
-+ get_intent(validation): tham số là model trong một biến chung mà không cần load lại model.
-khi gọi hàm thì sẽ yêu cầu nhập input và xuất ra output là nhãn
-trong trương trình đặt 1 biến toàn cục  validation=load_model() để load model và sử dụng cho cả chương trình
-hàm get_intent( validation) có tham số  validation chính là biến này 
++ get_intent(str): output là intent
+ 
 
 
