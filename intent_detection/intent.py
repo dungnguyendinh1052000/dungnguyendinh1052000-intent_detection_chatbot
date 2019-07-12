@@ -35,12 +35,10 @@ def load_model(): # hàm load model
     classifier = fastText.FastText.load_model(model_path)
     return classifier
 classifier=load_model() # gán biến classifier thành biến chưa model đã load 
-def get_intent(classifier):  #hàm nhập vào input xuất ra ouput là nhãn
-    input_Str=input()
+def get_intent(input_Str):  #hàm nhập vào input xuất ra ouput là nhãn
     input_Str=input_Str.lower()
     print(classifier.predict(inputStr)[0][0].split("__label__")[1])
     
-
 
 
 
