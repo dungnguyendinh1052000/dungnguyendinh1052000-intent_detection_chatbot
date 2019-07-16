@@ -40,11 +40,13 @@ def load_model(): # hàm load model
 
 
 
-
+# có thể gán classifier=Train_model() rồi thay chỗ load_model().predict bên dưới thành classifier.predict để không cần  
+# train lại khi tiếp tục gọi hàm get_intent()
 def get_intent(input_Str):  #hàm nhập vào input xuất ra ouput là nhãn
     input_Str=input_Str.lower()
     print(load_model().predict(input_Str)[0][0].split("__label__")[1]) # su dung ham load_model() dung model da train
                                                                        # hoac thay bang Train_model() de train model
+        
     
 
 
