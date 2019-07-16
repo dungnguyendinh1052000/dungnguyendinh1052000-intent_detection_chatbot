@@ -9,18 +9,18 @@
 # About Intent
 | Intent                      | Example                                                 |
 | ----------------------------|:-------------------------------------------------------:| 
-| chào hỏi                    | chào bạn                                                |
-| hỏi thăm bạn 	      | dạo này bạn khỏe chứ |
-| hỏi tên tuổi chatbot 	|tên gì nhỉ, bạn bao nhiêu tuổi rồi|
-| Giới tính 			|bạn là nam hay nữ|
-| hỏi thông tin về chatbot 	|ai là người tạo ra bạn vậy|
-| hỏi khả năng của chatbot 	|Bạn có thể giúp tôi được những việc gì vậy|
-| thông tin liên 		|Gọi bạn kiểu gì đây|
-| chê 				|hệ bạn thật vô dụng|
-| khen 				|bạn thật tuyệt vời|
-| nói về thời tiết 		|ôi hôm nay nóng quá|
-| nói về thời gian, lịch 	|hôm nay hôm nay ngày bao nhiêu nhỉ|
-| hỏi về người dùng 		|Bạn biết gì về tôi nào|
-| không hiểu 			|ncsudhfwef|
-| hỏi về tin tức hôm nay 	|hmmm hôm nay có những thông tin gì nổi bật vậy không bạn|
+| Chào hỏi                    | Chào bạn                                                |
+| Hỏi thăm bạn 	      | Dạo này bạn khỏe chứ |
+| Hỏi tên tuổi chatbot 	|Tên gì nhỉ, bạn bao nhiêu tuổi rồi|
+| Giới tính 			|Bạn là nam hay nữ|
+| Hỏi thông tin về chatbot 	|Ai là người tạo ra bạn vậy|
+| Hỏi khả năng của chatbot 	|Bạn có thể giúp tôi được những việc gì vậy|
+| Thông tin liên 		|Gọi bạn kiểu gì đây|
+| Chê 				|Bạn thật vô dụng|
+| Khen 				|Bạn thật tuyệt vời|
+| Nói về thời tiết 		|Ôi hôm nay nóng quá|
+| Nói về thời gian, lịch 	|Hôm nay hôm nay ngày bao nhiêu nhỉ|
+| Hỏi về người dùng 		|Bạn biết gì về tôi nào|
+| Không hiểu 			|ncsudhfwef|
+| Hỏi về tin tức hôm nay 	|Hmmm hôm nay có những thông tin gì nổi bật vậy không bạn|
 
